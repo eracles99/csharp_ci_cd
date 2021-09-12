@@ -4,6 +4,7 @@ using System.Linq;
 namespace CdWarehouse.Test
 {
     #aaaaa
+    #aasdfg
     public class Catalogue
     {
         private readonly CompactDisc[] _cds;
